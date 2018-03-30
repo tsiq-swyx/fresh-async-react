@@ -13,7 +13,7 @@
 - New Links must use this format:
   - `DD MMM YYYY: [Link Name](link)`
 
-# Note
+# Note: Not Official
 
 This repo has no affiliation to the React team. For official communication from them, please visit [the React blog](https://reactjs.org/blog) and follow their Twitter updates [here](https://twitter.com/reactjs). **Our intent is NOT to be a substitute for official communication**, rather it is for early adopters sharing links to understand and try out things from the community.
 
